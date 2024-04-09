@@ -1,4 +1,4 @@
-# stedin-API-guidelines
+# STDN-API-guidelines
 
 # Table of Contents
 
