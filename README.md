@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-- [1. Introduction](/API-Conventions/1.-Introduction)
+- [1. Introduction](/API-Conventions/1.-Introduction.md)
 - [2. Principles](/API-Conventions/2.-Principles)
 - [3. General guidelines](/API-Conventions/3.-General-guidelines)
 - [4. Meta information](/API-Conventions/4.-Meta-information)
