@@ -1,0 +1,1 @@
+# stedin-api-guidelines
