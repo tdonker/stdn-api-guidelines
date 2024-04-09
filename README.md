@@ -1,4 +1,4 @@
-# stedin-api-guidelines
+# stedin-API-guidelines
 
 # Table of Contents
 
